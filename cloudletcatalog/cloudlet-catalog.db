@@ -1,1 +1,0 @@
-{"cloudlets": [{"regions": {"lowLatency": ["India"], "all": ["India"]}, "environment": "production", "endpoints": [{"ip": "127.0.0.1", "protocol": "tcp", "name": "probe", "port": "60673"}, {"ip": "clc", "name": "clc", "port": "8080"}], "onBoardStatus": "registered", "cloudletName": "eib.local"}]}
